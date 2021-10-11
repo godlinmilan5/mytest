@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 git add
+
 
 git commit
 
 git revert 
-=======
->>>>>>> parent of 86e82d0 (changes)
+
